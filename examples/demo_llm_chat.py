@@ -16,7 +16,7 @@ from chat_manager import ChatManager
 from knowledge_graph import KnowledgeGraph
 
 # API密钥
-API_KEY = "sk-uqelhavcdhfxjzjesdenxpbtqombamjniazzjtbssmdcwdvg"
+API_KEY = "REDACTED_API_KEY"
 
 def demo_basic_chat():
     """演示1: 基础对话"""
